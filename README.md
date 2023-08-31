@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @youms56
-- 👀 I’m interested in Data Science, Data Engineering and Functional Programming (Scala, Haskell, Ocaml, Clojure, F#, Purescript, Elixir and Typescript)
-- 🌱 I’m currently learning Scala and Haskell
-- 💞️ I’m looking to collaborate on Scala or Haskell projects
+- 👀 I’m interested in Data Science, Data Engineering and Functional Programming (Haskell, Ocaml,Scala, Purescript, Elixir and Typescript)
+- 🌱 I’m currently learning Haskell
+- 💞️ I’m looking to collaborate on Haskell projects
 - 📫 How to reach me via my personal email: youms56@icloud.com
 
 <!---
